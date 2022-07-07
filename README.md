@@ -15,3 +15,8 @@ As stated above, the main purpose is to
 This is a simple web project, deployment can be done any time
 
 ## How to contribute
+
+
+## Copyright
+
+2022 Git.Training
