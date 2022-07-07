@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Martin Lernestål	martin.lernestal@test.se
 
 # THANKS
 
